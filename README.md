@@ -1,2 +1,2 @@
 # first
-first trivial project
+first trivial project created on zjsolc
